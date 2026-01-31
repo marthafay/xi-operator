@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Copyright (c) 2025 Martha Elias
-# Author: Martha Elias  (marthaelias [at] protonmail [dot] com)
+# I want to get hired! Contact: marthaelias [at] protonmail [dot] com
 # Version: v1.0 (October 2025)
-# DOI: 10.5281/zenodo.17379025
 # License: Apache 2.0
 #
-# I'd be happy if yo like my work: https://buymeacoffee.com/marthafay
+# I'd be happy if you like my work: https://buymeacoffee.com/marthafay
 #
 """
 CAUTION
